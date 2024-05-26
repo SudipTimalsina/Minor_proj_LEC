@@ -1,1 +1,1 @@
-This is the repository of the Minor project 
+**This is the repository of the Minor project** 
