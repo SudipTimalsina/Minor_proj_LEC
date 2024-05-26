@@ -11,6 +11,7 @@ The Project can be divided into three sections.
                                                    The sample of the LPR is given below 
 
   
- 
+ <p align="center">
  <img src="https://github.com/SudipTimalsina/Minor_proj_LEC/raw/main/img/License-plate-recognized.jpg" alt="License Plate Recognized" width="300"/>
- 
+ </p>
+
