@@ -8,5 +8,5 @@ The Project can be divided into three sections.
 **1. LPR **
 The Model was trained to recognizer the License plate of the Vehicle and the Character in the License plate was recognized using the EasyOCR.
 The sample of the LPR is given below 
-![License Plate Recognized](https://github.com/SudipTimalsina/Minor_proj_LEC/raw/main/img/License-plate-recognized.jpg)
+<img src="https://github.com/SudipTimalsina/Minor_proj_LEC/raw/main/img/License-plate-recognized.jpg" alt="License Plate Recognized" width="300"/>
  
